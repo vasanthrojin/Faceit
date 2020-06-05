@@ -1,7 +1,6 @@
 import face_recognition as fr
 import os
 import cv2
-import face_recognition
 import numpy as np
 from shutil import copyfile
 import time
